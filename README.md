@@ -29,7 +29,6 @@ A dynamic and responsive online store built as part of a 4-person team project (
 ├── /js
 │   └── script.js
 └── /img
-    └── [Product images]
 ```
 
 ## 👤 My Role
